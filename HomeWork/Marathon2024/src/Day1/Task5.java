@@ -1,4 +1,4 @@
-package Day2;
+package Day1;
 
 public class Task5 {
     public static void main(String[] args) {
